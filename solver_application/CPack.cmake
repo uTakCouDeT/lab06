@@ -1,7 +1,7 @@
 include(InstallRequiredSystemLibraries)
 set(CPACK_PACKAGE_CONTACT ${GITHUB_EMAIL})
 
-set(CPACK_PACKAGE_DESCRIPTION_SUMMARY "CPack ukidoshi package's")
+set(CPACK_PACKAGE_DESCRIPTION_SUMMARY "CPack package")
 
 set(CPACK_PACKAGE_NAME "solver")
 
